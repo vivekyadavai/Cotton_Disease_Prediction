@@ -2,7 +2,7 @@
 
          # Cotton Disease 
 
-1. 
+1. Choose The Image From File
 
 
 
